@@ -1,0 +1,3 @@
+D:/Work/My_projects/C++_projects/Password_manager/cmake-build-debug/CMakeFiles/Project1.dir
+D:/Work/My_projects/C++_projects/Password_manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Work/My_projects/C++_projects/Password_manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
